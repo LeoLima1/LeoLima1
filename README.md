@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Lima
 
-- 🌱 Atualmento estou estudando JavaScript
+- 🌱 Atualmento estou estudando JavaScript, Banco de Dados e orientação a objetos.
 - 🏁 Procuro trabalho na área de TI.
 - 📫 Contate-me no email: leonardolimace19@gmail.com
 
